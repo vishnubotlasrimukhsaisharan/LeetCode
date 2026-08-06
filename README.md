@@ -49,8 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
