@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0169-majority-element) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
