@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0075-sort-colors) |
+| [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
@@ -71,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
