@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -75,10 +76,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
