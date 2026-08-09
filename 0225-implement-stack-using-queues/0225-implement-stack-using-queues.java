@@ -1,9 +1,9 @@
 class MyStack {
    Queue<Integer> q1;
-    Queue<Integer> q2;
+    
     public MyStack() {
         q1 = new LinkedList<>();
-        q2 = new LinkedList<>();
+       
     }
     
     public void push(int x) {
@@ -11,26 +11,21 @@ class MyStack {
     }
     
     public int pop() {
-        while(q1.size()>1){
-            q2.add(q1.remove());
-        }
-        int ans = q1.remove();
-        while(!q2.isEmpty()){
-            q1.add(q2.remove());
-        }
-        return ans;
+       int size = q1.size();
+       for(int i=0;i<size-1;i++){
+        q1.add(q1.remove());
+       }
+       return q1.remove();
     }
     
     public int top() {
-         while(q1.size()>1){
-            q2.add(q1.remove());
-        }
-        int ans = q1.remove();
-        while(!q2.isEmpty()){
-            q1.add(q2.remove());
-        }
-        q1.add(ans);
-        return ans;
+        int size = q1.size();
+       for(int i=0;i<size-1;i++){
+        q1.add(q1.remove());
+       }
+       int ans = q1.remove();
+       q1.add(ans);
+       return ans;
     }
     
     public boolean empty() {
