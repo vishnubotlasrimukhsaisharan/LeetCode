@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1046-last-stone-weight](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
