@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -124,9 +127,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1046-last-stone-weight) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
