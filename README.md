@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1046-last-stone-weight) |
 ## Range Minimum/Maximum Query
 |  |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
