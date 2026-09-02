@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishnubotlasrimukhsaisharan/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
